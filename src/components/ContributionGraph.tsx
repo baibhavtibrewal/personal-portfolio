@@ -39,7 +39,7 @@ const ContributionGraph = () => {
   return (
     <div className="border border-border rounded-md p-4 bg-card overflow-x-auto">
       <h3 className="text-sm text-foreground mb-3">
-        {contributions.flat().filter((c) => c > 0).length} contributions in the last year
+        Contributions in the last year
       </h3>
       <div className="flex gap-0.5">
         <div className="flex flex-col gap-0.5 mr-2 text-xs text-muted-foreground pt-5">

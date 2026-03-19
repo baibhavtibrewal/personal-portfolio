@@ -33,14 +33,6 @@ const PinnedProject = ({ title, description, language, languageColor, stars, for
           <span className="w-3 h-3 rounded-full" style={{ backgroundColor: languageColor }} />
           {language}
         </span>
-        <span className="flex items-center gap-1">
-          <Star className="w-3.5 h-3.5" />
-          {stars}
-        </span>
-        <span className="flex items-center gap-1">
-          <GitFork className="w-3.5 h-3.5" />
-          {forks}
-        </span>
       </div>
     </a>
   );
