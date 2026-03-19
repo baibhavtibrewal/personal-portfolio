@@ -16,7 +16,7 @@ const ProfileSidebar = () => {
         <img
           src={avatar}
           alt="Baibhav Tibrewal - Developer & Creator"
-          className="w-[296px] h-[296px] rounded-full border-2 border-avatar-border object-cover"
+          className="w-[296px] h-[296px] rounded-full border-2 border-avatar-border object-cover object-top"
           loading="lazy"
         />
         <div className="mt-4 text-center lg:text-left">
