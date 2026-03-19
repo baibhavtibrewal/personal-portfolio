@@ -17,7 +17,7 @@ Designed to showcase projects, skills, and developer activity in a clean and min
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Frontend: React + TypeScript
 * Build Tool: Vite
@@ -27,10 +27,10 @@ Designed to showcase projects, skills, and developer activity in a clean and min
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
-.
+
 ├── public/                # Static assets
 ├── src/                   # Main application code
 │   ├── components/        # Reusable UI components
@@ -45,7 +45,7 @@ Designed to showcase projects, skills, and developer activity in a clean and min
 │
 ├── tailwind.config.ts     # Tailwind configuration
 ├── postcss.config.js      # PostCSS config
-├── tsconfig*.json         # TypeScript configs
+├── tsconfig.json         # TypeScript configs
 │
 ├── vite.config.ts         # Vite configuration
 ├── vitest.config.ts       # Testing config
