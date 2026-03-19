@@ -1,12 +1,12 @@
-import avatar from "@/assets/avatar.jpg";
+import avatar from "@/assets/avatar.png";
 import { Github, Linkedin, Twitter, Instagram, Mail } from "lucide-react";
 
 const socialLinks = [
-  { icon: Twitter, href: "#", label: "Twitter" },
-  { icon: Instagram, href: "#", label: "Instagram" },
-  { icon: Linkedin, href: "#", label: "LinkedIn" },
-  { icon: Github, href: "#", label: "GitHub" },
-  { icon: Mail, href: "mailto:baibhav@example.com", label: "Email" },
+  { icon: Twitter, href: "https://x.com/BaibhavT99444", label: "Twitter" },
+  { icon: Instagram, href: "https://www.instagram.com/tibrewalbaibhav?igsh=MW11cWw3aDFlamw4Yg==", label: "Instagram" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/", label: "LinkedIn" },
+  { icon: Github, href: "https://github.com/baibhavtibrewal", label: "GitHub" },
+  { icon: Mail, href: "mailto:baibhavtibrewal9@gmail.com", label: "Email" },
 ];
 
 const ProfileSidebar = () => {
