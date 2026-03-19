@@ -4,7 +4,7 @@ import { Github, Linkedin, Twitter, Instagram, Mail } from "lucide-react";
 const socialLinks = [
   { icon: Twitter, href: "https://x.com/BaibhavT99444", label: "Twitter" },
   { icon: Instagram, href: "https://www.instagram.com/tibrewalbaibhav?igsh=MW11cWw3aDFlamw4Yg==", label: "Instagram" },
-  { icon: Linkedin, href: "https://www.linkedin.com/in/", label: "LinkedIn" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/baibhavtibrewal29", label: "LinkedIn" },
   { icon: Github, href: "https://github.com/baibhavtibrewal", label: "GitHub" },
   { icon: Mail, href: "mailto:baibhavtibrewal9@gmail.com", label: "Email" },
 ];
