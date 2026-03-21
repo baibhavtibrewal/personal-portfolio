@@ -1,4 +1,4 @@
-import avatar from "@/assets/avatar.png";
+import avatar from "@/assets/avatar.webp";
 import { Github, Linkedin, Twitter, Instagram, Mail } from "lucide-react";
 
 const socialLinks = [
