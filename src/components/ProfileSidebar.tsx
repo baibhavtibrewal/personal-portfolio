@@ -6,7 +6,7 @@ const socialLinks = [
   { icon: Instagram, href: "https://www.instagram.com/tibrewalbaibhav?igsh=MW11cWw3aDFlamw4Yg==", label: "Instagram" },
   { icon: Linkedin, href: "https://www.linkedin.com/in/baibhavtibrewal29", label: "LinkedIn" },
   { icon: Github, href: "https://github.com/baibhavtibrewal", label: "GitHub" },
-  { icon: Mail, href: "mailto:baibhavtibrewal9@gmail.com", label: "Email" },
+  { icon: Mail, href: "mailto:baibhavtibrewal.dev@gmail.com", label: "Email" },
 ];
 
 const ProfileSidebar = () => {
