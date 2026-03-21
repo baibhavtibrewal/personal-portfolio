@@ -64,7 +64,7 @@ const ContentArea = () => {
         <div className="border border-border rounded-md p-6 bg-card">
           <p className="text-muted-foreground text-sm">
             Sponsors & collaborators can reach me at{" "}
-            <a href="mailto:baibhavtibrewal9@gmail.com" className="text-link hover:underline">
+            <a href="mailto:baibhavtibrewal.dev@gmail.com" className="text-link hover:underline">
               baibhavtibrewal9@gmail.com
             </a>
           </p>
