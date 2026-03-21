@@ -15,7 +15,7 @@ const Index = () => {
       "https://linkedin.com/in/baibhavtibrewal",
       "https://twitter.com/baibhavtibrewal",
     ],
-    knowsAbout: ["React", "Node.js", "TypeScript", "Python", "Web Development"],
+    knowsAbout: ["React", "Node.js", "TypeScript", "JavaScript", "RestApi", "Database", "Python", "Full Stack Development", "System Design"],
   };
 
   return (
