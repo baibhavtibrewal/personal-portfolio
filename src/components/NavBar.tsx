@@ -1,7 +1,7 @@
 import { Book, LayoutGrid, Star, Package, Menu, Search, Bell, Plus, Settings } from "lucide-react";
 import { Github, Moon, Sun } from "lucide-react";
 import { useTheme } from "next-themes";
-import avatar from "@/assets/avatar.png";
+import avatar from "@/assets/avatar.webp";
 
 const tabs = [
   { icon: Book, label: "Overview", active: true },
