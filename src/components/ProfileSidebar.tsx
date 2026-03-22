@@ -24,7 +24,7 @@ const ProfileSidebar = () => {
           <p className="text-xl font-light text-muted-foreground">baibhavtibrewal</p>
         </div>
         <p className="mt-4 text-foreground text-sm leading-relaxed">
-          Full-stack developer & creative technologist. I build web apps, explore new frameworks, and share what I learn with the community.
+          Full-stack developer & creative technologist. I build Full Stack apps, explore new frameworks, and share what I learn with the community.
         </p>
 
         <div className="flex items-center gap-3 mt-4">
