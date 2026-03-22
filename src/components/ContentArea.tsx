@@ -21,14 +21,14 @@ const ContentArea = () => {
         <h2 className="text-foreground font-normal mb-3 text-base">About</h2>
         <div className="border border-border rounded-md p-6 bg-card">
           <p className="text-foreground text-sm leading-relaxed mb-4">
-            Hey! I'm Baibhav Tibrewal — a full-stack developer passionate about building scalable web applications
-            and exploring cutting-edge technologies. I love working with React, Node.js, TypeScript, and cloud platforms.
+            Hey! I'm Baibhav Tibrewal — a full-stack developer passionate about building scalable Full Stack applications
+            and exploring cutting-edge technologies.My work focuses on React, TypeScript, and backend development, with an emphasis on performance, clean architecture, and real-world usability.
           </p>
           <p className="text-foreground text-sm leading-relaxed mb-4">
             When I'm not coding, you'll find me writing technical blogs or experimenting with AI/ML tools.
           </p>
           <div className="flex flex-wrap gap-2">
-            {["React", "Node.js", "TypeScript", "Python", "MongoDB", "PostgreSQL", "Docker", "AWS"].map(
+            {["React", "Node.js", "TypeScript" , "MongoDB", "PostgreSQL", "Python"].map(
               (skill) => (
                 <span
                   key={skill}
